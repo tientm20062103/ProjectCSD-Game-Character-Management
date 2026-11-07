@@ -1,0 +1,32 @@
+C|AnhHungBac|90
+C|AnhHungRom|50
+C|AnhHungXom|45
+C|BongMaTamHon|20
+C|BongMaThamLang|10
+C|CungThuOneShot|32
+C|Doi Nay Te Lam|60
+C|Hoc Cach Yeu Ai Do|60
+C|HocCachChapNhan|15
+C|NguoiBinhThuong|50
+C|NguoiHungThamLang|30
+C|NguoiHungTinhYeu|15
+A|Them nhan vat BongMaThamLang (Level 10)
+A|Them nhan vat NguoiHungTinhYeu (Level 15)
+A|Them nhan vat BongMaTamHon (Level 20)
+A|Them nhan vat NguoiHungThamLang (Level 30)
+A|Them nhan vat AnhHungXom (Level 45)
+A|Them nhan vat CungThuOneShot (Level 32)
+A|Them nhan vat HocCachChapNhan (Level 15)
+A|Them nhan vat NguoiBinhThuong (Level 50)
+A|Them nhan vat AnhHungBac (Level 90)
+A|Them nhan vat AnhHungRom (Level 50)
+A|Them nhan vat Hoc Cach Yeu Ai Do (Level 60)
+A|Them nhan vat Doi Nay Te Lam (Level 60)
+A|Them BongMaTamHon vao team To Doi Hiep Si
+A|Them AnhHungXom vao team Anh Hung Trai Dat
+A|Them BongMaThamLang vao team To Doi Hiep Si
+A|Them NguoiHungTinhYeu vao team To Doi Hiep Si
+A|Them NguoiHungThamLang vao team To Doi Hiep Si
+A|Them CungThuOneShot vao team Anh Hung Trai Dat
+A|Them HocCachChapNhan vao team Anh Hung Trai Dat
+A|Them NguoiBinhThuong vao team Anh Hung Trai Dat
